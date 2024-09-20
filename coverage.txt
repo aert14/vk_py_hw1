@@ -1,0 +1,8 @@
+Name                  Stmts   Miss  Cover
+-----------------------------------------
+file_filter.py           16      1    94%
+mood.py                  17      0   100%
+test_file_filter.py      32      1    97%
+test_mood.py             13      1    92%
+-----------------------------------------
+TOTAL                    78      3    96%
